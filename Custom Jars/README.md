@@ -1,5 +1,3 @@
-### e
-
 # Here's some custom bit jars and JS for them
 
 If you use them, it'd be nice if you credited me. 
