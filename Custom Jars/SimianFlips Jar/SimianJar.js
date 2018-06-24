@@ -13,3 +13,5 @@ boxBody.addShape(boxShape);
 this.world.addBody(boxBody);
 this.world.addBody(this.createRectangleBody([cupBase[0] + 110, cupBase[1] + 266], 600, 30, 85));
 this.world.addBody(this.createRectangleBody([cupBase[0] - 110, cupBase[1] + 266], 600, 30, -85));
+
+//Original jar image from StreamLabs
